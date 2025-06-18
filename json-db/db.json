@@ -1,0 +1,24 @@
+{
+  "jobs": [
+    
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "user",
+      "password": "user",
+      "name": "Mario Rossi",
+      "role": "user"
+    },
+    {
+      "id": "2",
+      "username": "admin",
+      "password": "admin",
+      "name": "Franco Admin",
+      "role": "admin"
+    }
+  ],
+  "applications": [
+    
+  ]
+}
