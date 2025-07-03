@@ -2,7 +2,6 @@ import axios from 'axios';
 import JobCard from './JobCard'
 import {useState, useEffect} from 'react';
 import { Box, Typography } from '@mui/material';
-import '../styles/userJobSection.css'
 
 const BASE_URL = import.meta.env.VITE_BASE_URL;
 
